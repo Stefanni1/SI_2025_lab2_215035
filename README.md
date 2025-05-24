@@ -2,6 +2,8 @@
 Име: Stefanija
 Презиме: Lalkova
 Индекс: 215035
+
+
 2.![SI_Lab2](https://github.com/user-attachments/assets/0ae28bb2-2f53-4990-bee2-5a9d195e7902)
 3.Ciklomatskata kompleksnost e 9. Od brojot na regioni
 4.Test 1: allItems == null -> frla isklucok
